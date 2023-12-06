@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    
+}
+
+.letra{
+    color: white;
+}
+
+.tex{
+    text-align: center;
+}
+
+.margen{
+    margin-top: 80px ;
+}
+
+.borde{
+    border: none;
+    
+
+}
